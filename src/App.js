@@ -7,7 +7,7 @@ import product2Image from './product2.jpg'; // Import locally stored image for P
 import product3Image from './product3.jpg'; // Import locally stored image for Product 1
 
 const products = [
-  { id: 1, name: 'Product 1', price: 10, image: product1Image }, // Use imported image for Product 1
+  { id: 1, name: 'Product 1', price: 10, image: product1Image }, // Use imported image th
   { id: 2, name: 'Product 2', price: 15, image: product2Image },
   { id: 3, name: 'Product 3', price: 20, image:  product3Image},
 ];
